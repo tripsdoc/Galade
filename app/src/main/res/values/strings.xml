@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">GasDetector</string>
+    <string name="title_activity_alarm">AlarmActivity</string>
+    <string name="title_activity_setting">Settings</string>
+    <string name="title_activity_list">Receiver List</string>
+    <string name="title_activity_add">Add Receiver</string>
+    <string name="title_activity_update">Update Receiver</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_setting">Settings</string>
+    <string name="title_list">List</string>
+
+    <!-- Variabel List -->
+    <string name="name">Receiver Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="unsubscribe">Unsubscribe</string>
+
+    <string name="firedetected">Fire Detected</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="emptylist">List is empty</string>
+
+    <string name="gassensor"> Gas Sensor</string>
+    <string name="flamesensor"> Flame Sensor</string>
+    <string name="sendlist"> Send List</string>
+
+    <!--Button-->
+    <string name="save">Save Data</string>
+    <string name="addlist">Add List</string>
+    <string name="receiver_list_button">Receiver List</string>
+
+    <string name="instruction">Instruction</string>
+
+    <string name="firststep">Setup topic in the hardware device first</string>
+    <string name="secondstep">In Setting Page register the same topic that has been set in hardware device</string>
+    <string name="thirdstep">When hardware device detect anomaly, Alarm Page will be displayed</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Gas Detector!</string>
+    <string name="slide_1_desc">Register the same topic that has been registered on device!</string>
+
+    <string name="slide_2_title">Stay Alert!</string>
+    <string name="slide_2_desc">Receive notification wherever you are!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> GasDetector -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <!-- Variabel for message -->
+    <string name="errsub1">Cannot subscribed to </string>
+    <string name="errsub2"> because topic didn\'t exist</string>
+    <string name="topicisempty">Topic cannot be empty</string>
+
+    <string name="subscribeto">Subscribed to </string>
+    <string name="unsubscribefrom">Unsubscribe from </string>
+
+    <string name="gettingdata">Getting Data</string>
+    <string name="pleasewait">Please wait...</string>
+
+    <string name="wrongphoneformat">Wrong phone number format</string>
+    <string name="nameisempty">Name cannot be empty</string>
+    <string name="addressisempty">Address cannot be empty</string>
+    <string name="phoneisempty">Phone number cannot be empty</string>
+
+    <string name="deletesuccess"> has been deleted successfully</string>
+    <string name="updatesuccess"> has been updated successfully</string>
+
+</resources>
