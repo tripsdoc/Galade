@@ -14,7 +14,7 @@ Change `google-service.json` in `app` folder with the one you use in firebase
 
 # Screenshot
 
-<img src="https://github.com/tripsdoc/galade/blob/master/picture/Screenshot_20191003-090415_GasDetector.jpg" width="250"> | <img src="https://github.com/tripsdoc/galade/blob/master/picture/Screenshot_20191003-090421_GasDetector.jpg" width="250"> | <img src="https://github.com/tripsdoc/galade/blob/master/picture/Screenshot_20191003-090427_GasDetector.jpg" width="250">
+<img src="https://github.com/tripsdoc/galade/blob/master/picture/Screenshot_20191003-090415_GasDetector.jpg" width="250"> <img src="https://github.com/tripsdoc/galade/blob/master/picture/Screenshot_20191003-090421_GasDetector.jpg" width="250"> <img src="https://github.com/tripsdoc/galade/blob/master/picture/Screenshot_20191003-090427_GasDetector.jpg" width="250">
 
 
 ## Maintainers
