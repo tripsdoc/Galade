@@ -10,7 +10,7 @@ git clone git@github.com:tripsdoc/galade.git
 
 # Configuration
 
-Change `google-service.json` in `app` folder with the one you use in firebase
+Add your google configuration, `google-service.json` in `app` folder with the one you use in firebase
 
 # Screenshot
 
