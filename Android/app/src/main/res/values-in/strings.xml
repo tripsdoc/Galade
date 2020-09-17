@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">GasDetector</string>
+    <string name="title_activity_alarm">AlarmActivity</string>
+    <string name="title_activity_setting">Pengaturan</string>
+    <string name="title_activity_list">Daftar Penerima</string>
+    <string name="title_activity_add">Tambah Penerima</string>
+    <string name="title_activity_update">Ubah Penerima</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_setting">Settings</string>
+    <string name="title_list">List</string>
+
+    <!-- Variabel List -->
+    <string name="name">Nama Penerima</string>
+    <string name="phone">Nomor Handphone</string>
+    <string name="address">Alamat</string>
+    <string name="subscribe">Langganan</string>
+    <string name="unsubscribe">Berhenti Langganan</string>
+
+    <string name="firedetected">Api Terdeteksi</string>
+    <string name="dismiss">Hentikan</string>
+    <string name="emptylist">Tidak ada data Penerima</string>
+
+    <string name="gassensor"> Sensor Gas</string>
+    <string name="flamesensor"> Sensor Api</string>
+    <string name="sendlist"> Kirim ke penerima</string>
+
+    <!--Button-->
+    <string name="save">Simpan Data</string>
+    <string name="addlist">Tambah Penerima</string>
+    <string name="receiver_list_button">Daftar Penerima</string>
+
+    <string name="instruction">Petunjuk</string>
+
+    <string name="firststep">Daftarkan topic pada perangkat keras terlebih dahulu</string>
+    <string name="secondstep">Dalam halaman pengaturan, daftarkan topic yang sama seperti pada perangkat keras</string>
+    <string name="thirdstep">Ketika terdeteksi gas ataupun api maka notifikasi akan muncul</string>
+
+    <string name="next">SELANJUTNYA</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MENGERTI</string>
+
+    <string name="slide_1_title">Gas Detector!</string>
+    <string name="slide_1_desc">Daftar topic sesuai dengan perangkat yang telah didaftarkan!</string>
+
+    <string name="slide_2_title">Selalu Awas!</string>
+    <string name="slide_2_desc">Dapatkan notifikasi dimanapun Anda berada!</string>
+
+    <string name="play_again_desc">Untuk melihat slide kembali, pergi ke Pengaturan -> Aplikasi -> GasDetector -> Hapus data</string>
+    <string name="play_again">Mulai Kembali</string>
+
+    <!-- Variabel for message -->
+    <string name="errsub1">Tidak bisa berlangganan ke </string>
+    <string name="errsub2"> karena topic tidak ada</string>
+    <string name="topicisempty">Topic tidak boleh kosong</string>
+
+    <string name="subscribeto">Berlangganan ke </string>
+    <string name="unsubscribefrom">Berhenti langganan dari </string>
+
+    <string name="gettingdata">Getting Data</string>
+    <string name="pleasewait">Please wait...</string>
+
+    <string name="wrongphoneformat">Format nomor handphone salah</string>
+    <string name="nameisempty">Nama tidak boleh kosong</string>
+    <string name="addressisempty">Alamat tidak boleh kosong</string>
+    <string name="phoneisempty">Nomor handphone tidak boleh kosong</string>
+
+    <string name="deletesuccess"> berhasil dihapus</string>
+    <string name="updatesuccess"> berhasil diubah</string>
+</resources>
